@@ -5,12 +5,12 @@ function func(a,b){
     return c
 }
 
-export default func
+// export default func
 
 
 
-function aa(){
-  console.log("this fsnjn");
-}
+// function aa(){
+//   console.log("this fsnjn");
+// }
 
- export {aa}
+//  export {aa}
